@@ -2,9 +2,9 @@
 This project aims to analyze a game based on historical data and twitter sentiment analysis. 
 
 # Data source
-* Video game sales data: https://www.kaggle.com/gregorut/videogamesales
-* Twitter API
-* Twitch scaping
+* Video game sales data: https://www.kaggle.com/gregorut/videogamesales .
+* Twitter API.
+* Twitch scaping.
 * IGN gaming score and review articles.
 
 # Project goal:
